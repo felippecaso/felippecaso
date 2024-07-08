@@ -1,4 +1,4 @@
-👋
+## Hi.
 
 I’m a facilitator, musician, analyst, and engineer. I prefer dogs over cats, and on weekends I enjoy reading about mixology. I'm passionate about technology and self-knowledge and strive to combine them to improve myself day after day.
 
