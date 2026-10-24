@@ -1,7 +1,9 @@
-## Hi.
+## Hi, I'm Felippe.
 
-I’m a facilitator, musician, analyst, and engineer. I prefer dogs over cats, and on weekends I enjoy reading about mixology. I'm passionate about technology and self-knowledge and strive to combine them to improve myself day after day.
+I'm Felippe Felisola Caso, Lead Engineer in Analytics at [Monzo Bank](https://monzo.com/), based in London, UK. I work on applied AI in Monzo's AI Platform team, building products that make the data team better, from AI coding assistants to the agents we run on our data. That includes Agent Chip, Monzo's in-house coding agent.
 
-I help businesses and individuals make sense of data. Currently, I work as a Lead Analytics Engineer at [Monzo](https://monzo.com/), after some time at [Nubank](https://nubank.com.br) and leading Analytics teams at [Loft](https://loft.com.br). Since 2016 I have been teaching and mentoring in data, programming, and career development, in partnership with organizations such as [Fundação Estudar](https://estudar.org.br/).
+Speaker, teacher and mentor. Most recently I spoke at AI Engineer New York 2026 with Francesco Galletta, running the workshop "Stop Chatting With Spreadsheets: Build a Financial Analyst Harness That You Can Trust" and giving the talk [A Bank Built Its Own Coding Agent. It Took Off](https://www.youtube.com/watch?v=adfw3xJBx1o).
 
-I graduated from the Federal University of São Carlos with a degree in Electrical Engineering, and I participated in an exchange program at Queen Mary University of London, where I studied Audio Systems Engineering - it allowed me to combine my artistic side with a passion for exact sciences. Since my second year of undergraduate studies, I've been a part of data and technology teams in startups.
+Since 2016 I have taught and mentored people in data, programming and career development. I've been coding since 2008 and have worked in data teams since my second year of university, mostly at startups and scale-ups before Monzo, including [Nubank](https://nubank.com.br) and [Loft](https://loft.com.br). I graduated in Electrical Engineering from the Federal University of São Carlos, with an exchange year at Queen Mary University of London studying Audio Systems Engineering. I'm also a musician.
+
+[felippecaso.com](https://felippecaso.com) · [LinkedIn](https://www.linkedin.com/in/felippecaso)
